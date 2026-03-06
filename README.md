@@ -1,5 +1,5 @@
 # DESAFIO-QA-BEEDOO-2026
-DESAFIO-QA-BEEDOO-2026
+
 Qual você acredita ser o objetivo da aplicação?
 O objetivo é cadastrar cursos e divulgar uma lista de fácil visualização.
 
